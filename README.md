@@ -6,8 +6,8 @@ Object Oriented Programming
 
 #### SOLID (객체 지향 설계 원칙)
 ##### SRP 
-* 코드
-* 개념 정리
+* [Code](https://github.com/Vida0822/OOP/blob/ae5db980ac14d4df548737ea3dadf29e652dea9f/OOP_Study/src/SOLID/SRP.java#L25-L61)
+* [Description](https://vida0822.github.io/algorithm/Java-SRP/)
 
   
 
