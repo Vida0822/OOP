@@ -7,7 +7,14 @@ Object Oriented Programming
 #### SOLID (객체 지향 설계 원칙)
 SRP ( [Code](https://github.com/Vida0822/OOP/blob/ae5db980ac14d4df548737ea3dadf29e652dea9f/OOP_Study/src/SOLID/SRP.java#L25-L61) / 
       [Description](https://vida0822.github.io/algorithm/Java-SRP/) )
-
+OCP ( [Code](https://github.com/Vida0822/OOP/blob/927e11c042a09694b43e0a37f8a44aad320e2f97/OOP_Study/src/SOLID/OCP.java#L3-L51) / 
+      [Description](https://vida0822.github.io/java/Java-OCP/) ) 
+LSP ( [Code](https://github.com/Vida0822/OOP/blob/927e11c042a09694b43e0a37f8a44aad320e2f97/OOP_Study/src/SOLID/LSP.java#L6-L35) / 
+      [Description](https://vida0822.github.io/java/Java-LSP/) ) 
+ISP ( [Code](https://github.com/Vida0822/OOP/blob/927e11c042a09694b43e0a37f8a44aad320e2f97/OOP_Study/src/SOLID/ISP.java#L3-L42) / 
+      [Description](https://vida0822.github.io/java/Java-ISP/) )
+DIP ( [Code](https://github.com/Vida0822/OOP/blob/927e11c042a09694b43e0a37f8a44aad320e2f97/OOP_Study/src/SOLID/DIP.java#L3-L40) / 
+      [Description](https://vida0822.github.io/java/Java-DIP/) ) 
   
 
 
