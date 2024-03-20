@@ -23,5 +23,5 @@ DIP ( [Code](https://github.com/Vida0822/OOP/blob/927e11c042a09694b43e0a37f8a44a
 SingleTon ([Code](https://github.com/Vida0822/OOP/blob/88a383cb16ea3d099363c6146c172ed43c1fd76e/OOP_Study/src/design_pattern/Singleton.java#L3-L34) / 
             [Description](https://vida0822.github.io/java/Java-Singleton/) ) <br> 
 Strategy ([Code](https://github.com/Vida0822/OOP/blob/9cab3d63b9fedd652f27b03876b04f507b3ea5fd/OOP_Study/src/design_pattern/Strategy.java#L3-L156) / 
-            [Description](https://vida0822.github.io/java/Java-Strategy/) <br>
+            [Description](https://vida0822.github.io/java/Java-Strategy/) ) <br>
 
