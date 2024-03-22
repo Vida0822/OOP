@@ -24,4 +24,5 @@ SingleTon ([Code](https://github.com/Vida0822/OOP/blob/88a383cb16ea3d099363c6146
             [Description](https://vida0822.github.io/java/Java-Singleton/) ) <br> 
 Strategy ([Code](https://github.com/Vida0822/OOP/blob/9cab3d63b9fedd652f27b03876b04f507b3ea5fd/OOP_Study/src/design_pattern/Strategy.java#L3-L156) / 
             [Description](https://vida0822.github.io/java/Java-Strategy/) ) <br>
-
+Observer([Code](https://github.com/Vida0822/OOP/blob/9196fa0931c43063b9be88997edb093a7b413d71/OOP_Study/OOP/design_pattern/Observer.java#L5-L99) / 
+            [Description](https://vida0822.github.io/java/Java-Observer/) ) <br>
